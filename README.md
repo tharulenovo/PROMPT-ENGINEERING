@@ -59,7 +59,8 @@ Step 7: Finalize and Export
 
 # Output
 
-[EXP.1.pdf](https://github.com/user-attachments/files/23020219/EXP.1.1.pdf)
+[EXP.1.pdf](https://github.com/user-attachments/files/23020355/EXP.1.pdf)
+
 
 
 # Result
